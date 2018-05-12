@@ -1,0 +1,30 @@
+_repo: History-of-Egypt-From-330-B.C.-To-the-Present-Time-Volume-12--of-12-_17332
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17332-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rappoport, A. S. (Angelo Solomon)
+    aliases:
+    - Rappoport, Angelo Solomon
+    - Rappoport, S. (Solomon)
+    birthdate: 1871
+    deathdate: 1950
+    gutenberg_agent_id: '7310'
+    url: http://www.gutenberg.org/2009/agents/7310
+description: ''
+gutenberg_bookshelf: Egypt
+gutenberg_issued: '2005-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17332'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Egypt -- History'
+title: History of Egypt From 330 B.C. To the Present Time, Volume 12 (of 12)
+url: http://www.gutenberg.org/ebooks/17332
